@@ -1,0 +1,32 @@
+
+
+Crime Type: Murder
+Incident Details: this and this happened on this day this location this time i saw this person and thatt person and all of this happend i wish for your quick response and hope for the best.
+------------------------
+Crime Type: Kidnapping
+Incident Details: abducted on way home from work
+------------------------
+
+Crime Type: Fraud
+Incident Details: i was comming back from the univeristy and it happeded at the main entrance where a man was selling some goods
+------------------------
+
+Crime Type: Kidnapping
+Incident Details: we were trying to work on our project in our university but then this one gril in our group came and tried to kiddnap our peace on gun point
+------------------------
+Crime Type: Vandalism
+Name: Fatima Khan
+Date: 3 1 2024
+Location: my private property xyz
+Incident Details: when i was isiting my property i saw a woman throwing her lit cigarette on my property which lead to a fire
+------------------------
+Crime Type: Vandalism
+Name: Fatima Imran
+Date: 3 1 2024
+Location: my private property xyz
+Contact Number: -972685356
+Adress: abc street airport karach
+Number of witness/es: 1
+Name/s of witness/es: Rania Khan
+Incident Details: when iwas walking towards my property i saw a woman throwing her lit cigerette on my property which lead to a fire
+------------------------
